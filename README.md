@@ -1,5 +1,5 @@
 # infAH3N2-genotype-criticality
- Codes and data related to Williams et al., PNAS Nexus (2022)
+ Codes and data related to *Immunity-induced criticality of the genotype network of influenza A (H3N2) hemagglutinin* by Williams, Ogbunugafor, Althouse & Hébert-Dufresne, PNAS Nexus (2022)
 
 ### Codes
 
